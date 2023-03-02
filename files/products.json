@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "tshirt GOD FIRST BRO",
+		"description": "Show people what you believe in",
+		"price": 3800,
+		"thumbnail": "GFB.webp",
+		"code": "ts1",
+		"stock": 55
+	},
+	{
+		"id": 2,
+		"title": "tshirt Never Panic just pray",
+		"description": "NPJP",
+		"price": 2500,
+		"thumbnail": "NPJP.webp",
+		"code": "ts2",
+		"stock": 55
+	},
+	{
+		"id": 4,
+		"title": "new description",
+		"description": 980,
+		"price": "newpicture.webp",
+		"thumbnail": "ts2",
+		"code": "new name",
+		"stock": 10
+	}
+]
