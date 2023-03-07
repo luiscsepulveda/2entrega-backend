@@ -18,12 +18,21 @@
 		"stock": 55
 	},
 	{
+		"id": 3,
+		"title": "tshirt Faith",
+		"description": "Faith",
+		"price": 8900,
+		"thumbnail": "faith.webp",
+		"code": "ts3",
+		"stock": 15
+	},
+	{
 		"id": 4,
-		"title": "new description",
-		"description": 980,
-		"price": "newpicture.webp",
-		"thumbnail": "ts2",
-		"code": "new name",
+		"title": "tshirt test",
+		"description": "test",
+		"price": 500,
+		"thumbnail": "test.webp",
+		"code": "ts4",
 		"stock": 10
 	}
 ]
